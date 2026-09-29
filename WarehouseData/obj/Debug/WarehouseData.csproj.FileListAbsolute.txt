@@ -1,0 +1,2 @@
+C:\Users\konon\source\repos\Warehouse\WarehouseData\obj\Debug\WarehouseData.csproj.AssemblyReference.cache
+C:\Users\konon\source\repos\Warehouse\WarehouseData\obj\Debug\WarehouseData.csproj.CoreCompileInputs.cache

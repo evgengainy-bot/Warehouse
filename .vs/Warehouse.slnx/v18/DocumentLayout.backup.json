@@ -1,0 +1,816 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\konon\\source\\repos\\Warehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB6D6F-B59F-48E9-98E2-7DEEDDB29EC5}|WarehouseDataTests\\WarehouseDataTests.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedatatests\\servicewhstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB6D6F-B59F-48E9-98E2-7DEEDDB29EC5}|WarehouseDataTests\\WarehouseDataTests.csproj|solutionrelative:warehousedatatests\\servicewhstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB6D6F-B59F-48E9-98E2-7DEEDDB29EC5}|WarehouseDataTests\\WarehouseDataTests.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedatatests\\serviceorgstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB6D6F-B59F-48E9-98E2-7DEEDDB29EC5}|WarehouseDataTests\\WarehouseDataTests.csproj|solutionrelative:warehousedatatests\\serviceorgstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB6D6F-B59F-48E9-98E2-7DEEDDB29EC5}|WarehouseDataTests\\WarehouseDataTests.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedatatests\\serviceproductstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB6D6F-B59F-48E9-98E2-7DEEDDB29EC5}|WarehouseDataTests\\WarehouseDataTests.csproj|solutionrelative:warehousedatatests\\serviceproductstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98EB6D6F-B59F-48E9-98E2-7DEEDDB29EC5}|WarehouseDataTests\\WarehouseDataTests.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedatatests\\serviceorderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98EB6D6F-B59F-48E9-98E2-7DEEDDB29EC5}|WarehouseDataTests\\WarehouseDataTests.csproj|solutionrelative:warehousedatatests\\serviceorderstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\services\\servicewhs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\services\\servicewhs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\services\\serviceproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\services\\serviceproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\services\\serviceorgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\services\\serviceorgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\services\\serviceorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\services\\serviceorders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\models\\manufacturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehousedata\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0178607-F144-4C45-ABE9-1F1261D81D26}|WarehouseData\\WarehouseData.csproj|solutionrelative:warehousedata\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\whmodwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\whmodwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\whmodwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\whmodwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\whdeletewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\whdeletewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\whdeletewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\whdeletewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\simpleinputwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\simpleinputwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\simpleinputwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\simpleinputwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\productmodwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\productmodwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\productmodwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\productmodwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\productdeletewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\productdeletewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\productdeletewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\productdeletewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\orgsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\orgsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\orgsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\orgsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\orgmodwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\orgmodwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\orgmodwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\orgmodwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\orgdeletewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\orgdeletewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\orgdeletewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\orgdeletewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\orderwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\views\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\views\\orderwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\resources\\dictionarybasic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\resources\\dictionarybasic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\controls\\usercontrolwarehouses.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controls\\usercontrolwarehouses.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\controls\\usercontrolwarehouses.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controls\\usercontrolwarehouses.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\controls\\usercontrolproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controls\\usercontrolproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\controls\\usercontrolproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controls\\usercontrolproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\controls\\usercontrolorders.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controls\\usercontrolorders.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\controls\\usercontrolorders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controls\\usercontrolorders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\controls\\helpers\\priceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controls\\helpers\\priceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\controls\\helpers\\discountbackgroundconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\controls\\helpers\\discountbackgroundconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\commands\\windowcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\commands\\windowcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|c:\\users\\konon\\source\\repos\\warehouse\\warehouse\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B06446-28A0-43D0-9DAC-C0AF62A69156}|Warehouse\\Warehouse.csproj|solutionrelative:warehouse\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Models\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Warehouse.cs",
+              "RelativeToolTip": "WarehouseData\\Models\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:34:22.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Supplier.cs",
+              "RelativeToolTip": "WarehouseData\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:34:20.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Product.cs",
+              "RelativeToolTip": "WarehouseData\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:34:18.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Organization.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Models\\Organization.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Organization.cs",
+              "RelativeToolTip": "WarehouseData\\Models\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:34:15.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Manufacturer.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Manufacturer.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Models\\Manufacturer.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Manufacturer.cs",
+              "RelativeToolTip": "WarehouseData\\Models\\Manufacturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:33:54.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Category.cs",
+              "RelativeToolTip": "WarehouseData\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:33:53.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\App.xaml.cs",
+              "RelativeToolTip": "Warehouse\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:49:37.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceOrders.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Services\\ServiceOrders.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Services\\ServiceOrders.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Services\\ServiceOrders.cs",
+              "RelativeToolTip": "WarehouseData\\Services\\ServiceOrders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:39:01.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceOrdersTests.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseDataTests\\ServiceOrdersTests.cs",
+              "RelativeDocumentMoniker": "WarehouseDataTests\\ServiceOrdersTests.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseDataTests\\ServiceOrdersTests.cs",
+              "RelativeToolTip": "WarehouseDataTests\\ServiceOrdersTests.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAADwv98AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:27:33.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceProductsTests.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseDataTests\\ServiceProductsTests.cs",
+              "RelativeDocumentMoniker": "WarehouseDataTests\\ServiceProductsTests.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseDataTests\\ServiceProductsTests.cs",
+              "RelativeToolTip": "WarehouseDataTests\\ServiceProductsTests.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:27:10.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceWhsTests.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseDataTests\\ServiceWhsTests.cs",
+              "RelativeDocumentMoniker": "WarehouseDataTests\\ServiceWhsTests.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseDataTests\\ServiceWhsTests.cs",
+              "RelativeToolTip": "WarehouseDataTests\\ServiceWhsTests.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:26:45.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceOrgs.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Services\\ServiceOrgs.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Services\\ServiceOrgs.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Services\\ServiceOrgs.cs",
+              "RelativeToolTip": "WarehouseData\\Services\\ServiceOrgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:34:49.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceWhs.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Services\\ServiceWhs.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Services\\ServiceWhs.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Services\\ServiceWhs.cs",
+              "RelativeToolTip": "WarehouseData\\Services\\ServiceWhs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:35:09.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceOrgsTests.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseDataTests\\ServiceOrgsTests.cs",
+              "RelativeDocumentMoniker": "WarehouseDataTests\\ServiceOrgsTests.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseDataTests\\ServiceOrgsTests.cs",
+              "RelativeToolTip": "WarehouseDataTests\\ServiceOrgsTests.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:26:17.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\App.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\App.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\App.xaml",
+              "RelativeToolTip": "Warehouse\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T16:49:23.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WhModWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\WhModWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\WhModWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\WhModWindow.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Views\\WhModWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:04:57.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WhModWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\WhModWindow.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\WhModWindow.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\WhModWindow.xaml",
+              "RelativeToolTip": "Warehouse\\Views\\WhModWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T17:04:37.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WhDeleteWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\WhDeleteWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\WhDeleteWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\WhDeleteWindow.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Views\\WhDeleteWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T11:11:09.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceProducts.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Services\\ServiceProducts.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Services\\ServiceProducts.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Services\\ServiceProducts.cs",
+              "RelativeToolTip": "WarehouseData\\Services\\ServiceProducts.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAwHQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:06:17.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WhDeleteWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\WhDeleteWindow.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\WhDeleteWindow.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\WhDeleteWindow.xaml",
+              "RelativeToolTip": "Warehouse\\Views\\WhDeleteWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T11:10:51.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SimpleInputWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\SimpleInputWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\SimpleInputWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\SimpleInputWindow.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Views\\SimpleInputWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:58:46.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\MainWindow.xaml",
+              "RelativeToolTip": "Warehouse\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T00:40:50.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Warehouse\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T00:40:49.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\Order.cs",
+              "RelativeToolTip": "WarehouseData\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:38:34.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Models\\OrderItem.cs",
+              "RelativeToolTip": "WarehouseData\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:38:17.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SimpleInputWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\SimpleInputWindow.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\SimpleInputWindow.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\SimpleInputWindow.xaml",
+              "RelativeToolTip": "Warehouse\\Views\\SimpleInputWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T16:58:32.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "WarehouseData\\Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\WarehouseData\\Context\\ApplicationContext.cs",
+              "RelativeToolTip": "WarehouseData\\Context\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T16:36:41.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductModWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\ProductModWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\ProductModWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\ProductModWindow.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Views\\ProductModWindow.xaml.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAwPkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:06:22.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductModWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\ProductModWindow.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\ProductModWindow.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\ProductModWindow.xaml",
+              "RelativeToolTip": "Warehouse\\Views\\ProductModWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T17:05:47.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductDeleteWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\ProductDeleteWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\ProductDeleteWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\ProductDeleteWindow.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Views\\ProductDeleteWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T11:31:14.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProductDeleteWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\ProductDeleteWindow.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\ProductDeleteWindow.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\ProductDeleteWindow.xaml",
+              "RelativeToolTip": "Warehouse\\Views\\ProductDeleteWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T11:30:48.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrgsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgsView.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\OrgsView.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgsView.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Views\\OrgsView.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:55:04.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrgsView.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgsView.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\OrgsView.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgsView.xaml",
+              "RelativeToolTip": "Warehouse\\Views\\OrgsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T16:54:32.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrgModWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgModWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\OrgModWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgModWindow.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Views\\OrgModWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:56:46.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrgModWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgModWindow.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\OrgModWindow.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgModWindow.xaml",
+              "RelativeToolTip": "Warehouse\\Views\\OrgModWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T16:56:13.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrgDeleteWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgDeleteWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\OrgDeleteWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgDeleteWindow.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Views\\OrgDeleteWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T11:04:46.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrgDeleteWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgDeleteWindow.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\OrgDeleteWindow.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrgDeleteWindow.xaml",
+              "RelativeToolTip": "Warehouse\\Views\\OrgDeleteWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-16T11:04:19.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrderWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\OrderWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrderWindow.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Views\\OrderWindow.xaml.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAmwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:07:41.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrderWindow.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Views\\OrderWindow.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Views\\OrderWindow.xaml",
+              "RelativeToolTip": "Warehouse\\Views\\OrderWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T17:07:10.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DictionaryBasic.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Resources\\DictionaryBasic.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Resources\\DictionaryBasic.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Resources\\DictionaryBasic.xaml",
+              "RelativeToolTip": "Warehouse\\Resources\\DictionaryBasic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T16:48:26.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserControlWarehouses.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlWarehouses.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Controls\\UserControlWarehouses.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlWarehouses.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Controls\\UserControlWarehouses.xaml.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAQwF0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:03:19.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UserControlWarehouses.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlWarehouses.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Controls\\UserControlWarehouses.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlWarehouses.xaml",
+              "RelativeToolTip": "Warehouse\\Controls\\UserControlWarehouses.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T17:03:05.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserControlProducts.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlProducts.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Controls\\UserControlProducts.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlProducts.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Controls\\UserControlProducts.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:09:16.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserControlProducts.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlProducts.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Controls\\UserControlProducts.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlProducts.xaml",
+              "RelativeToolTip": "Warehouse\\Controls\\UserControlProducts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T17:08:56.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserControlOrders.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlOrders.xaml.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Controls\\UserControlOrders.xaml.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlOrders.xaml.cs",
+              "RelativeToolTip": "Warehouse\\Controls\\UserControlOrders.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T17:11:28.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserControlOrders.xaml",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlOrders.xaml",
+              "RelativeDocumentMoniker": "Warehouse\\Controls\\UserControlOrders.xaml",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\UserControlOrders.xaml",
+              "RelativeToolTip": "Warehouse\\Controls\\UserControlOrders.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T17:11:18.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PriceConverter.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\Helpers\\PriceConverter.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Controls\\Helpers\\PriceConverter.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\Helpers\\PriceConverter.cs",
+              "RelativeToolTip": "Warehouse\\Controls\\Helpers\\PriceConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:52:31.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DiscountBackgroundConverter.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\Helpers\\DiscountBackgroundConverter.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Controls\\Helpers\\DiscountBackgroundConverter.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Controls\\Helpers\\DiscountBackgroundConverter.cs",
+              "RelativeToolTip": "Warehouse\\Controls\\Helpers\\DiscountBackgroundConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:53:17.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "WindowCommands.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Commands\\WindowCommands.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Commands\\WindowCommands.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Commands\\WindowCommands.cs",
+              "RelativeToolTip": "Warehouse\\Commands\\WindowCommands.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T16:51:25.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Warehouse\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\konon\\source\\repos\\Warehouse\\Warehouse\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Warehouse\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T17:26:04.925Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

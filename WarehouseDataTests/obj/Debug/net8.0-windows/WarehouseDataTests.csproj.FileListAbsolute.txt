@@ -1,0 +1,5 @@
+C:\Users\konon\source\repos\Warehouse\WarehouseDataTests\obj\Debug\net8.0-windows\WarehouseDataTests.csproj.AssemblyReference.cache
+C:\Users\konon\source\repos\Warehouse\WarehouseDataTests\obj\Debug\net8.0-windows\WarehouseDataTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konon\source\repos\Warehouse\WarehouseDataTests\obj\Debug\net8.0-windows\WarehouseDataTests.AssemblyInfoInputs.cache
+C:\Users\konon\source\repos\Warehouse\WarehouseDataTests\obj\Debug\net8.0-windows\WarehouseDataTests.AssemblyInfo.cs
+C:\Users\konon\source\repos\Warehouse\WarehouseDataTests\obj\Debug\net8.0-windows\WarehouseDataTests.csproj.CoreCompileInputs.cache

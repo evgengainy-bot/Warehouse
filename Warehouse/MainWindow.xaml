@@ -1,0 +1,74 @@
+﻿<Window x:Class="Warehouse.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Warehouse"
+        Title="Управление складским хозяйством"
+        Height="600" Width="1224"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.CommandBindings>
+        <CommandBinding Command="local:WindowCommands.Exit"
+                        Executed="Exit_Executed"/>
+        <CommandBinding Command="local:WindowCommands.GetProducts"
+                        Executed="GetProducts_Executed"/>
+        <CommandBinding Command="local:WindowCommands.GetOrders"
+                        Executed="GetOrders_Executed"/>
+    </Window.CommandBindings>
+
+    <DockPanel>
+
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Выход"
+                  Command="local:WindowCommands.Exit"/>
+            </MenuItem>
+
+            <MenuItem Header="Склады">
+                <MenuItem Header="Список складов" Click="MenuWarehouses_Click"/>
+            </MenuItem>
+
+            <MenuItem Header="Товары">
+                <MenuItem Header="Открыть список товаров"
+                  Command="local:WindowCommands.GetProducts"/>
+                <Separator/>
+                <MenuItem Header="Добавить товар" Click="MenuAddProduct_Click"/>
+                <MenuItem Header="Изменить товар" Click="MenuEditProduct_Click"/>
+                <MenuItem Header="Удалить товар" Click="MenuDeleteProduct_Click"/>
+            </MenuItem>
+
+            <MenuItem Header="Накладные">
+                <MenuItem Header="Открыть список накладных"
+                  Command="local:WindowCommands.GetOrders"/>
+                <Separator/>
+                <MenuItem Header="Создать накладную" Click="MenuAddOrder_Click"/>
+                <MenuItem Header="Удалить накладную" Click="MenuDeleteOrder_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <TextBlock Text="Организация:"/>
+            </StatusBarItem>
+            <StatusBarItem>
+                <TextBlock x:Name="tbStatusOrg" FontWeight="Bold" Margin="0 0 16 0"/>
+            </StatusBarItem>
+            <Separator/>
+            <StatusBarItem>
+                <TextBlock Text="Склад:"/>
+            </StatusBarItem>
+            <StatusBarItem>
+                <TextBlock x:Name="tbStatusWh" FontWeight="Bold" Margin="0 0 16 0"
+                   Text="не выбран"/>
+            </StatusBarItem>
+            <Separator/>
+            <StatusBarItem HorizontalAlignment="Right">
+                <TextBlock x:Name="tbStatusInfo" Foreground="Gray"/>
+            </StatusBarItem>
+        </StatusBar>
+
+        <Frame x:Name="MainFrame"
+               NavigationUIVisibility="Hidden"
+               Background="White"/>
+
+    </DockPanel>
+</Window>

@@ -1,0 +1,11 @@
+C:\Users\konon\source\repos\Warehouse\WarehouseData\bin\Debug\net10.0-windows\WarehouseData.deps.json
+C:\Users\konon\source\repos\Warehouse\WarehouseData\bin\Debug\net10.0-windows\WarehouseData.dll
+C:\Users\konon\source\repos\Warehouse\WarehouseData\bin\Debug\net10.0-windows\WarehouseData.pdb
+C:\Users\konon\source\repos\Warehouse\WarehouseData\obj\Debug\net10.0-windows\WarehouseData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konon\source\repos\Warehouse\WarehouseData\obj\Debug\net10.0-windows\WarehouseData.AssemblyInfoInputs.cache
+C:\Users\konon\source\repos\Warehouse\WarehouseData\obj\Debug\net10.0-windows\WarehouseData.AssemblyInfo.cs
+C:\Users\konon\source\repos\Warehouse\WarehouseData\obj\Debug\net10.0-windows\WarehouseData.csproj.CoreCompileInputs.cache
+C:\Users\konon\source\repos\Warehouse\WarehouseData\obj\Debug\net10.0-windows\WarehouseData.dll
+C:\Users\konon\source\repos\Warehouse\WarehouseData\obj\Debug\net10.0-windows\refint\WarehouseData.dll
+C:\Users\konon\source\repos\Warehouse\WarehouseData\obj\Debug\net10.0-windows\WarehouseData.pdb
+C:\Users\konon\source\repos\Warehouse\WarehouseData\obj\Debug\net10.0-windows\ref\WarehouseData.dll

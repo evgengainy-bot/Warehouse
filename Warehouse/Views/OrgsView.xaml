@@ -1,0 +1,75 @@
+﻿<Window x:Class="Warehouse.Views.OrgsView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:Warehouse"
+        Title="Организации" Height="450" Width="600"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <DataTemplate x:Key="OrgListTemplate">
+            <StackPanel Margin="4">
+                <TextBlock FontFamily="Verdana" FontSize="14"
+                           Text="{Binding OrgName}"
+                           HorizontalAlignment="Left"/>
+            </StackPanel>
+        </DataTemplate>
+    </Window.Resources>
+
+    <Window.CommandBindings>
+        <CommandBinding Command="local:WindowCommands.OrgCancel"
+                        Executed="Exit_Executed"/>
+        <CommandBinding Command="local:WindowCommands.OrgOk"
+                        Executed="Ok_Executed"/>
+        <CommandBinding Command="local:WindowCommands.OrgAdd"
+                        Executed="OrgAdd_Executed"/>
+        <CommandBinding Command="local:WindowCommands.OrgEdit"
+                        Executed="OrgEdit_Executed"/>
+        <CommandBinding Command="local:WindowCommands.OrgDelete"
+                        Executed="OrgDelete_Executed"/>
+    </Window.CommandBindings>
+
+    <DockPanel>
+
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Организации">
+                <MenuItem Header="Новая организация"
+                          Command="local:WindowCommands.OrgAdd"/>
+                <MenuItem Header="Изменить организацию"
+                          Command="local:WindowCommands.OrgEdit"/>
+                <MenuItem Header="Удалить организацию"
+                          Command="local:WindowCommands.OrgDelete"/>
+            </MenuItem>
+        </Menu>
+
+        <StatusBar DockPanel.Dock="Bottom">
+            <TextBlock x:Name="tbStatus" Text="Выберите организацию"/>
+        </StatusBar>
+
+        <StackPanel DockPanel.Dock="Right" Width="140" Margin="4">
+            <Button x:Name="btnOk" Content="Открыть"
+                    Command="local:WindowCommands.OrgOk"
+                    Margin="4 8 4 4"/>
+            <Button x:Name="btnCancel" Content="Закрыть"
+                    Command="local:WindowCommands.OrgCancel"
+                    Margin="4"/>
+        </StackPanel>
+
+        <ListView x:Name="lbxOrgsList"
+          DisplayMemberPath="OrgName"
+          SelectionChanged="lbxOrgsList_SelectionChanged"
+          Margin="4">
+            <ListView.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Новая организация"
+                      Command="local:WindowCommands.OrgAdd"/>
+                    <MenuItem Header="Изменить организацию"
+                      Command="local:WindowCommands.OrgEdit"/>
+                    <Separator/>
+                    <MenuItem Header="Удалить организацию"
+                      Command="local:WindowCommands.OrgDelete"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+        </ListView>
+
+    </DockPanel>
+</Window>
